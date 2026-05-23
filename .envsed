@@ -1,0 +1,4 @@
+GROQ_API_KEY=apni_real_key_yahan -i  1s/^/from dotenv import load_dotenv
+import os
+load_dotenv()
+/ main.py
